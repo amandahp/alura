@@ -1,0 +1,12 @@
+{
+  "name": "poo-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "amandahp",
+  "license": "ISC"
+}
